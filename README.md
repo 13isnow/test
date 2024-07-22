@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Hello Git
+Hello AI
 =======
 Hello Git
 >>>>>>> Test
